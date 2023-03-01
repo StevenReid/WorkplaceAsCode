@@ -1,5 +1,5 @@
 $OneDrive = @()
-$Cleandedicons = "unkown"
+$Cleandedicons = "unknown"
 
 # Define Variables
 $Lang = (Get-WinSystemLocale).LCID
